@@ -33,5 +33,7 @@
     "react-dom": "^16.3.2",
     "react-testing-library": "^3.1.3",
     "rollup": "^0.59.1"
-  }
+  },
+  "repository": "git@github.com:jomaxx/react-async.git",
+  "author": "Jo Maxx <jo.maxx.blake@gmail.com>"
 }
